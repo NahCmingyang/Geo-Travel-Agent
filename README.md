@@ -2,7 +2,7 @@
 # 🗺️ AI 旅行小管家 (AI Travel Planner)
 
 本项目是一个基于 **LangChain** 框架开发的垂直领域智能体（Agent）。它结合了 **DeepSeek** 大模型、**向量数据库 (RAG)** 和 **高德地图 API**，旨在为用户提供从景点推荐、路线优化到深度攻略生成的一站式旅行规划服务。
-
+![GitHub Logo](show/2b6f92c5accb600b7ab91221c39ccb31.png)
 ## 🌟 核心功能
 
 * **双引擎景点获取**：
